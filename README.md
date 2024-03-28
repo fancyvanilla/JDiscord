@@ -30,6 +30,10 @@ You can run multiple clients by repeating step 5 in different terminal windows.
 
 To test the application, simply run the client and server applications. You should be able to send messages from each client and see them appear in all other clients.
 
+## Contributing
+
+If you would like to contribute to this project, please feel free to fork the repository, create a feature branch, and then submit a pull request.
+
 ## Built With
 
 - Java - The programming language used
